@@ -230,7 +230,7 @@ st.markdown('#')
 
 contorllerUrl = st.text_input("Enter Controller URL", value='https://pinot.saas.demo.startree.cloud')
 token = st.text_input("Enter Pinot token",
-                      value='Basic YjhiMjhkNWFmNTY1NDdlODhkZWY4MTYwNTk1ODk4YWQ6MXRwNVZGRjJxZ2pVMnA5NFNkNXBNUklDVnlSZmQwQ0R2NVNFTGF5bTNLUT0=')
+                      value='Basic ')
 
 headers = {
     "Authorization": token,
